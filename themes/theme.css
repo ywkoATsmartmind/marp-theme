@@ -11,12 +11,13 @@ section {
   font-family: "Noto Sans KR", sans-serif;
 }
 
-section .lead {
+section.lead {
   background-image: url("https://raw.githubusercontent.com/smartmind-team/marp-theme/main/assets/background.png");
+  /* text-align: center; */
 }
 
-section.title {
-  text-align: center;
+section.lead h1 {
+  color: white;
 }
 
 .lead {
