@@ -25,11 +25,9 @@ section.lead {
   /* text-align: center; */
 }
 
-/*
 section.lead h1, h2, h3, h4 {
   color: white;
 }
-*/
 
 section.lead h1, h2 {
   margin: 0;
