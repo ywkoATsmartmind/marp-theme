@@ -4,11 +4,14 @@
 @import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900");
 
 h1 {
-  color: red;
-/*  color: #558EFF; */
+  color: #558EFF;
 }
 
-h2, h3, h4  {
+section h1 {
+  color: red;
+}
+
+section h2, h3, h4  {
   color: green;
 }
 
