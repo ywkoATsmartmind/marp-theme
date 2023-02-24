@@ -3,8 +3,8 @@
 @import "default";
 @import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900");
 
-h2 {
-  color: green;
+h2, h3, h4 {
+  color: darkgrey;
 }
 
 section {
@@ -17,12 +17,8 @@ section.lead {
   /* text-align: center; */
 }
 
-section.lead h1 {
+section.lead h1, h2, h3, h4 {
   color: white;
-}
-
-section.lead h2, h3, h4 {
-  color: red;
 }
 
 section.lead h1, h2 {
