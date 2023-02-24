@@ -3,14 +3,6 @@
 @import "default";
 @import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900");
 
-.slide h1 {
-  color: #222222;
-}
-
-.slide h2 {
-  color: #666666;
-}
-
 section {
   font-family: "Noto Sans KR", sans-serif;
   background-color: whitesmoke;
@@ -21,8 +13,12 @@ section.lead {
   /* text-align: center; */
 }
 
-section.lead h1, h2, h3, h4 {
+section.lead h1 {
   color: white;
+}
+
+section.lead h2, h3, h4 {
+  color: red;
 }
 
 section.lead h1, h2 {
