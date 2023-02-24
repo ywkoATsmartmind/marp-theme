@@ -3,16 +3,12 @@
 @import "default";
 @import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900");
 
-h1 {
-  color: #558EFF;
-}
-
 section h1 {
-  color: red;
+  color: #222222;
 }
 
 section h2 {
-  color: green;
+  color: #666666;
 }
 
 section {
