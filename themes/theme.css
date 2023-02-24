@@ -3,11 +3,11 @@
 @import "default";
 @import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900");
 
-section h1 {
+.slide h1 {
   color: #222222;
 }
 
-section.title h2 {
+.slide h2 {
   color: #666666;
 }
 
